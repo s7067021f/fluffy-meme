@@ -3,3 +3,7 @@ body {
   color: #747704;
   font-weight: 300;
 }
+
+.text-thin {
+  font-weight: 100;
+}
